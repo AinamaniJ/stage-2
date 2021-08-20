@@ -1,0 +1,45 @@
+*{
+   padding: 0px;
+   margin: 0%;
+}
+
+body{
+   padding-top: 40px;
+}
+
+h5{
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-size: 1.3em;
+}
+
+p{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+   padding: 1rem 0.2rem;
+}
+
+.i_size{
+   height: 120px;
+   width: 120px;
+}
+
+.t_skills .projects{
+   padding-left: 25px;
+}
+
+ul{
+   list-style-type: circle;
+}
+
+.z_image{
+   height: 3em;
+   width: 6em;
+}
+
+footer{
+   padding: 1rem 0;
+   text-align: center;
+}
